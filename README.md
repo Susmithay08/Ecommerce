@@ -301,6 +301,3 @@ ecommerce/
 └── .env.example             # Environment template
 ```
 
-## License
-
-MIT
