@@ -2,6 +2,12 @@
 
 A production-ready, scalable e-commerce platform built with Node.js microservices, Docker, and modern DevOps tooling.
 
+## 🖼 Preview
+
+![Ecommerce Preview](./nova1.png)
+![Ecommerce Preview](./nova2.png)
+![Ecommerce Preview](./nova3.png)
+
 ## Architecture Overview
 
 ```
